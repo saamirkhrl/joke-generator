@@ -1,0 +1,27 @@
+div {
+  margin: 0 auto;
+  width: 300px;
+  background-color: lightblue;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.text {
+  margin: auto;
+  width: 300px;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+button {
+  margin: auto;
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  font-size: 25px;
+  cursor: pointer;
+}
